@@ -12,6 +12,16 @@ As a member of the startup team, you will work with the *CEO*, the *marketing Di
 
 You will analyze and optimize marketing channels, measure and test website conversion performance, and use data to understand the impact of new product launches.
 
+### Understanding the Database
+---
+
+We'll be working with six related tables, which contain eCommerce data about:
+ - Website Activity
+ - Products
+ - Orders and Refunds
+
+We'll use MySQL to understand how customers access and interact with the site, analyze landing page performance and conversion, and explore product-level sales.
+
 ### The Objective
 ---
 
